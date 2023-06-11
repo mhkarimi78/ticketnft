@@ -1,4 +1,6 @@
 # TicketNFT
+<img width="1440" alt="Screenshot 2023-06-11 at 12 05 39 PM" src="https://github.com/mhkarimi78/ticketnft/assets/69413612/b98673fe-15da-491e-9082-8cd7cf468bc4">
+<img width="1440" alt="Screenshot 2023-06-11 at 12 05 54 PM" src="https://github.com/mhkarimi78/ticketnft/assets/69413612/23830474-09ec-4ba8-a547-10a30889bc4a">
 
 ## Technology Stack & Tools
 
